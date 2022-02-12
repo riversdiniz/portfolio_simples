@@ -14,7 +14,7 @@ a {
 
 /* FONTS */
 h1 {
-    color: #fff;   
+    color: #00d800;   
     font-size: 35px;
 }
 
@@ -25,7 +25,7 @@ h2 {
 
 /* SEÇÃO SOBRE */
 .secao-sobre {
-    background-color: hsla(120,100%,75%,0.3);
+    background-color: #fff;
     width: 35%;
     margin: 0 auto;
 }
